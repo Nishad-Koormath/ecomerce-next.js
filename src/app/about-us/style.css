@@ -1,0 +1,44 @@
+.about-container {
+  padding: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-description {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.mission-section, .team-section, .values-section {
+  margin-top: 30px;
+}
+
+.mission-section h2, .team-section h2, .values-section h2 {
+  font-size: 1.8rem;
+  color: #34495e;
+  margin-bottom: 15px;
+}
+
+.values-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.values-section li {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,62 @@
+.container-contactUs {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    line-height: 1.6;
+    color: #333;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .description {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-details {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .link {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input {
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .textarea {
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-height: 100px;
+  }
+  
+  .button {
+    padding: 0.8rem;
+    font-size: 1rem;
+    color: #fff;
+    background: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
