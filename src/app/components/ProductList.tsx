@@ -21,11 +21,14 @@ const ProductList = async () => {
                 src={p.image}
                 className="card-img-top"
                 alt={p.title}
-                style={{ objectFit: "contain"}} //, height: "200px", width: "100%" 
-                width={100}
-                height={200}
+                style={{ objectFit: "contain" }}
+                // fill={true}
+                width={500}
+                height={300}
                 
               />
+  
+
               <div className="card-body">
                 <div className="card-top-title">
                   <h5 className="card-title">
